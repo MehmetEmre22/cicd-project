@@ -1,2 +1,2 @@
 # cicd-project
-Yazılım mühendisliği dersi grupproje ödevi
+Yazılım mühendisliği dersi grup proje ödevi
